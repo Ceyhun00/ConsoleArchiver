@@ -7,7 +7,7 @@ namespace ConsoleArchiver
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("sdfdsf");
+            Console.WriteLine("sdfdksf");
         }
     }
 }
